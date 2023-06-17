@@ -1,0 +1,28 @@
+<htmi>
+  <head>
+    <title> my web page</title>
+  </head>
+  <body>
+    <h1> My self Ajay kumar gupta </h1>
+    <h2> I will try to do some thing about web development we learn web devlopment</h2>
+  <hr>
+    <a href='./About.html'><b>My favourite
+    movies name</b> </a>
+    <h3>The best movies according to me</h3>
+    <h4> my top 3 movies which we watching few days ago</h4>
+    
+    <img src='./movie-ranking.png'height='300px'>
+    <br>
+    <a href='./Something.html'><b> Birthday Invitation Project </b></a>
+    </br>
+    <br>
+    <img src='./birthday-invite.png'height='300px'/>
+    <br>
+    <hr>
+
+    <a href='./About1.html'>About Me </a>
+    
+    <a href='./Contact.html'>contect Me </a>
+
+  </body>
+</htmi>
